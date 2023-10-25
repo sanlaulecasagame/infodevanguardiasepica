@@ -23,14 +23,13 @@ h1, h2, h3, p {
 
 .centrado { 
     position: absolute; /* Establece la posición absoluta */
-    top: 50%; /* Mueve el elemento hacia abajo en un 50% del contenedor */
+    top: 150%; /* Mueve el elemento hacia abajo en un 50% del contenedor */
     left: 50%; /* Mueve el elemento hacia la derecha en un 50% del contenedor */
     transform: translate(-50%, -50%); /* Centra el elemento en su posición original */
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh;
     color: #fff;
 }
 
