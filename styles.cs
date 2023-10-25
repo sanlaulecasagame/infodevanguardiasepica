@@ -1,9 +1,15 @@
 /* styles.css */
 body {
-    background-image: url('fondo.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;   
+.centrado {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+    h1, h2, h3, p {
+    font-family: 'Super Sedan', sans-serif;
+        
     font-family: 'Super Sedan', sans-serif;
     margin: 0;
     padding: 0;
