@@ -1,6 +1,6 @@
 /* styles.css */
 body {
-    background-color: #f0f0f0;
+    background-color: #000000;
     font-family: Arial, sans-serif;
 }
 h1 {
