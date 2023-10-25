@@ -1,13 +1,14 @@
 /* styles.css */
 body {
-    background-image: url('starryrhone_vangogh_big.jpg');
-    background-size: cover;
-    background-repeat: repeat;
-    background-position: center;
+        display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
     
     font-family: 'Super Sedan';
     src: url('Super Sedan.ttf') format('truetype');
-    
     font-family: 'Super Sedan', sans-serif;
     margin: 0;
     padding: 0;
