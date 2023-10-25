@@ -1,6 +1,12 @@
 /* styles.css */
 body {
-        display: flex;
+    background-image: url('fondo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+body {
+display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
