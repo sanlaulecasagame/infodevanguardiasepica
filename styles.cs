@@ -1,6 +1,6 @@
 /* styles.css */
 body {
-        background-image: url('starryrhone_vangogh_big.jpg');
+    background-image: url('starryrhone_vangogh_big.jpg');
     background-size: cover;
     background-repeat: repeat;
     background-position: center;
