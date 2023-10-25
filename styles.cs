@@ -36,7 +36,7 @@ main {
     max-width: 800px;
     margin: 20px auto;
     padding: 20px;
-    background-color: #fff;
+    background-color: #000;
 }
 footer {
     text-align: center;
