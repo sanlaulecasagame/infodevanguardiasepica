@@ -4,18 +4,15 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;   
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-    font-family: 'Super Sedan';
-    src: url('Super Sedan.ttf') format('truetype');
     font-family: 'Super Sedan', sans-serif;
     margin: 0;
     padding: 0;
     background-color: #000000;
+}
+
+@font-face {
+    font-family: 'Super Sedan';
+    src: url('SuperSedan.ttf') format('truetype');
 }
 header {
     background-color: #333;
