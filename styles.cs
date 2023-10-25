@@ -3,16 +3,13 @@ body {
     background-image: url('fondo.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;
-}
-body {
-display: flex;
+    background-position: center;   
+    display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     height: 100vh;
     margin: 0;
-    
     font-family: 'Super Sedan';
     src: url('Super Sedan.ttf') format('truetype');
     font-family: 'Super Sedan', sans-serif;
