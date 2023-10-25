@@ -41,6 +41,7 @@ h1 {
     font-weight: normal;
     font-style: normal;
 }
+
 @font-face {
     font-family: 'Super Sedan';
     src: url('SuperSedan.ttf') format('truetype');
