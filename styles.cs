@@ -14,7 +14,8 @@ body {
 #fondito {
     position: absolute; /* Establece la posición absoluta */
     top: 50px; /* Desplázala 50 píxeles desde la parte superior */
-    left: 100px; /* Desplázala 100 píxeles desde la izquierda */
+    left: 100px;/* Desplázala 100 píxeles desde la izquierda */
+    right: 100px;/* Desplázala 100 píxeles desde la derecha */
 }
 h1, h2, h3, p {
     font-family: 'Super Sedan', sans-serif;
