@@ -11,25 +11,14 @@ body {
     color: #fff;
     text-align: center;
 }
-#fondito {
-    position: absolute; /* Establece la posición absoluta */
-    top: 50px; /* Desplázala 50 píxeles desde la parte superior */
-    left: 100px;/* Desplázala 100 píxeles desde la izquierda */
-    right: 100px;/* Desplázala 100 píxeles desde la derecha */
-}
 h1, h2, h3, p {
     font-family: 'Super Sedan', sans-serif;
 }
-
 .centrado { 
     position: absolute; /* Establece la posición absoluta */
     top: 150%; /* Mueve el elemento hacia abajo en un 50% del contenedor */
     left: 50%; /* Mueve el elemento hacia la derecha en un 50% del contenedor */
     transform: translate(-50%, -50%); /* Centra el elemento en su posición original */
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
     color: #fff;
 }
 
