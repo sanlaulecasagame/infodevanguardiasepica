@@ -2,7 +2,7 @@
 body {
     background-image: url('fondo.jpg');
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-position: center;
     font-family: 'Super Sedan', sans-serif;
     margin: 0;
