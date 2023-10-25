@@ -21,7 +21,11 @@ h1, h2, h3, p {
     font-family: 'Super Sedan', sans-serif;
 }
 
-.centrado {
+.centrado { 
+    position: absolute; /* Establece la posición absoluta */
+    top: 50%; /* Mueve el elemento hacia abajo en un 50% del contenedor */
+    left: 50%; /* Mueve el elemento hacia la derecha en un 50% del contenedor */
+    transform: translate(-50%, -50%); /* Centra el elemento en su posición original */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -61,6 +65,10 @@ main {
     background-color: #000;
 }
 
+footer {
+    background-color: #333;
+    padding: 10px;
+}
 footer {
     background-color: #333;
     padding: 10px;
