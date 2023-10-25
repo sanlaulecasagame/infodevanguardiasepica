@@ -36,11 +36,10 @@ title {
 @font-face {
     font-family: 'Super Sedan';
     src: url('SuperSedan.ttf') format('truetype');
-    src: url('Angels.ttf') format('truetype');
 }
 
 header {
-    background-color: #000;
+    background-color: #333;
     padding: 20px;
 }
 
