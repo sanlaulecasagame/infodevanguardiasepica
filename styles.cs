@@ -1,5 +1,10 @@
 /* styles.css */
 body {
+    font-family: 'Super Sedan';
+    src: url('Super Sedan.ttf') format('truetype');
+    
+    font-family: 'Super Sedan', sans-serif;
+
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
