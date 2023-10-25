@@ -11,8 +11,12 @@ body {
     color: #fff;
     text-align: center;
 }
-h1, h2, h3, p {
+h2, h3, p {
     font-family: 'Super Sedan', sans-serif;
+}
+h1 {
+    font-family: 'Angels', sans-serif;
+        src: url('Angels.ttf') format('truetype');
 }
 .centrado {
     position: relative; /* Cambia la posición a relativa */
