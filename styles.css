@@ -2,7 +2,7 @@
 body {
     background-image: url('fondo.jpg');
     background-size: cover;
-    background-repeat: repeat;
+    background-repeat: repeat; /* Cambiado a no-repeat para evitar la repetición */
     background-position: center;
     font-family: 'Super Sedan', sans-serif;
     margin: 0;
@@ -11,9 +11,11 @@ body {
     color: #fff;
     text-align: center;
 }
+
 h2, h3, p {
     font-family: 'Super Sedan', sans-serif;
 }
+
 h1 {
     font-family: 'Angels', sans-serif;
 }
