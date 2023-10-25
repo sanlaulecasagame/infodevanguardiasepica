@@ -11,14 +11,14 @@ body {
     color: #fff;
     text-align: center;
 }
-
+h1 {
+    font-family: 'Angels', sans-serif;
+}
 h1, h2, h3, p {
     font-family: 'Super Sedan', sans-serif;
 }
 
-h1 {
-    font-family: 'Angels', sans-serif;
-}
+
 .centrado {
     position: relative; /* Cambia la posición a relativa */
     top: 0; /* Ajusta la posición vertical si es necesario */
