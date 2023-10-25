@@ -14,6 +14,9 @@ body {
 h1, h2, h3, p {
     font-family: 'Super Sedan', sans-serif;
 }
+title {
+    font-family: 'Angels', sans-serif;
+}
 .centrado {
     position: relative; /* Cambia la posición a relativa */
     top: 0; /* Ajusta la posición vertical si es necesario */
@@ -33,6 +36,7 @@ h1, h2, h3, p {
 @font-face {
     font-family: 'Super Sedan';
     src: url('SuperSedan.ttf') format('truetype');
+    src: url('Angels.ttf') format('truetype');
 }
 
 header {
