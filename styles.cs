@@ -4,11 +4,9 @@ body {
     src: url('Super Sedan.ttf') format('truetype');
     
     font-family: 'Super Sedan', sans-serif;
-
-    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f0f0;
+    background-color: #000000;
 }
 header {
     background-color: #333;
