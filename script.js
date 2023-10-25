@@ -1,5 +1,5 @@
 // script.js
 document.addEventListener("DOMContentLoaded", function() {
     var welcomeMessage = document.querySelector("h1");
-    welcomeMessage.textContent = "¡Bienvenido a mi página web!";
+    welcomeMessage.textContent = "Proyecto Buenos Aires Cultural 2023";
 });
