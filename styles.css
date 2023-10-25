@@ -16,6 +16,7 @@ h2, h3, p {
 }
 h1 {
     font-family: 'Angels', sans-serif;
+    src: url('Angels.ttf') format('truetype');
 }
 .centrado {
     position: relative; /* Cambia la posición a relativa */
