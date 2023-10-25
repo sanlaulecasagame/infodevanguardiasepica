@@ -1,12 +1,5 @@
 /* styles.css */
 body {
-.centrado {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    
     h1, h2, h3, p {
     font-family: 'Super Sedan', sans-serif;
         
@@ -15,7 +8,16 @@ body {
     padding: 0;
     background-color: #000000;
 }
-
+h1, h2, h3, p {
+    font-family: 'Super Sedan', sans-serif;
+}
+.centrado {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}  
 @font-face {
     font-family: 'Super Sedan';
     src: url('SuperSedan.ttf') format('truetype');
