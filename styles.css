@@ -11,10 +11,10 @@ body {
     color: #fff;
     text-align: center;
 }
-h1, h2, h3, p {
+h2, h3, p {
     font-family: 'Super Sedan', sans-serif;
 }
-title {
+h1 {
     font-family: 'Angels', sans-serif;
 }
 .centrado {
