@@ -34,6 +34,12 @@ h1 {
     margin: 20px 0; /* Agrega un margen superior e inferior para separar las imágenes del título */
 }
 @font-face {
+    font-family: 'Angels';
+    src: url('Angels.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
     font-family: 'Super Sedan';
     src: url('SuperSedan.ttf') format('truetype');
 }
