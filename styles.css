@@ -1,6 +1,6 @@
 /* styles.css */
 body {
-    background-image: url('fondo.jpg');
+    background-image: url('no.jpg');
     background-size: cover;
     background-repeat: repeat; /* Cambiado a no-repeat para evitar la repetición */
     background-position: center;
